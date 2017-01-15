@@ -1,3 +1,3 @@
 # mytestrepo
 
-Ez a repository csak tesztelés céljából lett elkészítve
+Ez a repository csak tesztelÃ©s cÃ©ljÃ¡bÃ³l lett elkÃ©szÃ­tve. Ãgy sok haszna nincs
